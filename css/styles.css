@@ -597,6 +597,17 @@ progress {
 .blockquote-footer::before {
   content: "— ";
 }
+<!-- Footer-->
+.btn-social:hover {
+    background-color: #ff7a00;
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.footer {
+    border-top: 2px solid #d4bd0b;
+}
+<!-- Footer-->
 
 .img-fluid {
   max-width: 100%;
